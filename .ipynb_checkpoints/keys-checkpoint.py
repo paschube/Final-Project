@@ -1,1 +1,2 @@
 FRED_key = '889be235dac97a09f7b78f2906962774'
+QUANDL_key = 'Zymx_vosykeM9k8F-HP3'
